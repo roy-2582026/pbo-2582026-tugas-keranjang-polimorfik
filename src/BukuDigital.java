@@ -1,4 +1,4 @@
-// Update untuk commit ketiga
+// Catatan: Finalisasi commit ketiga untuk tugas polimorfisme
 public class BukuDigital extends Buku implements BisaDiunduh {
     private double ukuranMb;
     private String linkUnduhan;
